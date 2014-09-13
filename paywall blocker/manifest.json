@@ -1,0 +1,24 @@
+{
+	"manifest_version": 2,
+	
+	"name": "Paywall Blocker",
+	"description": "Remove Paywall",
+	"version": "1.0",
+	"icons":{ 
+		"16": "icons/icon16.png",
+		"48": "icons/icon48.png",
+		"128": "icons/icon128.png"
+	},
+	
+	"permissions": [
+		"tabs", "http://pulaskinews.net/*"
+	],
+	"background": {
+		"scripts": ["js/bypass.js"],
+		"persistent": false
+	},
+	"browser_action": {
+		"default_title": "Remove the paywall from the Maumelle Monitor",
+		"default_icon": "icons/icon128.png"
+	}
+}
