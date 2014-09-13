@@ -7,7 +7,7 @@ This extension successfully blocks the paywall provided by [pulaskinews.net](www
 3. The Jacksonville Patriot
 4. The Sherwood Voice
 
-If you ever find yourself linked to one of these newspapers and you don't actively read it, why would you pay $36 for a year of articles?  You wouldn't, because it doesn't make sense.  That's where Paywall Blocker comes in!
+If you ever find yourself linked to one of these newspapers and you don't actively read it, why would you pay $36 for a year of articles?  You wouldn't, because it doesn't make sense.  That's where Paywall Blocker comes in!  Just click the icon in your browser bar and viola!  You can read up on all important Pulaski County news from multiple newspapers. 
 
 [screenshot]: screenshot.png "Example of the paywall."
 ![Example of the paywall you will see.][screenshot]
